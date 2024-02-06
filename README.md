@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, Codeigniter, Laravel, Wordpress, Magento, Javascript, Angular, React, Node
 - 🌱 I’m currently learning Node
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me at developer.shafquat@gmail.com
+- 📫 reach me at shafquat.imam@billgosling.com
 
 <!---
 shafquat-imam/shafquat-imam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
