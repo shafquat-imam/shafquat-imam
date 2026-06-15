@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://shafquat.dev/images/profile.jpg"
+  <img src="[https://shafquat.dev/images/profile.jpg](https://media.licdn.com/dms/image/v2/D5603AQGYxx6kxG5LKA/profile-displayphoto-crop_800_800/B56Z69K9RuJoAI-/0/1781290230091?e=1782950400&v=beta&t=POUSHFc0QTvFUekEBwHCHgR6VoBhrT8bD8lQsdr7Mq8)"
        width="100" height="100"
        style="border-radius:50%"
        alt="Shafquat Imam"/>
