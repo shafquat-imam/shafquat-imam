@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://yourname.dev/images/profile.jpg"
+  <img src="https://shafquat.dev/images/profile.jpg"
        width="100" height="100"
        style="border-radius:50%"
        alt="Shafquat Imam"/>
@@ -7,8 +7,8 @@
   <h2>Hi, I'm Shafquat 👋</h2>
   <p>Senior Laravel & PHP Developer · Engineering Team Lead · 10+ Years</p>
 
-  <a href="https://yourname.dev">
-    <img src="https://img.shields.io/badge/Portfolio-yourname.dev-1F3A5F?style=flat&logo=safari&logoColor=white"/>
+  <a href="https://shafquat.dev">
+    <img src="https://img.shields.io/badge/Portfolio-shafquat.dev-1F3A5F?style=flat&logo=safari&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/shafquatimam">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/>
