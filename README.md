@@ -24,7 +24,7 @@
 
 - 🔭 **Currently building:** AI-integrated Laravel SaaS tools
 - 💼 **Day job:** Engineering Team Lead at Bill Gosling Outsourcing
-- 🌱 **Writing about:** Laravel architecture, AI integration, freelancing
+- 🌱 **Writing about:** Laravel architecture, AI integration, <!-- freelancing -->
 <!--- 🤝 **Available for:** Freelance Laravel projects (2–3 at a time) -->
 - 🌍 **Based in:** India · Working with US / UK / EU clients
 - ⚡ **Fun fact:** I've been writing PHP since before Laravel existed
