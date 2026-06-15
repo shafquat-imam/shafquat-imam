@@ -13,9 +13,9 @@
   <a href="https://linkedin.com/in/shafquatimam">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://upwork.com/your-profile">
+  <!--<a href="https://upwork.com/your-profile">
     <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=flat&logo=upwork&logoColor=white"/>
-  </a>
+  </a>-->
 </div>
 
 ---
