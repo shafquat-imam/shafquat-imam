@@ -72,24 +72,3 @@ $stack = [
     <a href="https://shafquat.dev/contact">Let's talk → shafquat.dev/contact</a>
   </p>
 </div>
-
-github.com/shafquat-imam
-
-┌─────────────────────────────────────────────────────────┐
-│  [Profile photo]   shafquat-imam                        │
-│                    Hi, I'm Shafquat 👋                  │
-│                    [Portfolio] [LinkedIn] [Upwork]       │
-│                    badges                               │
-│                    About Me section                     │
-│                    Tech Stack (PHP code block)          │
-│                    Pinned Projects table                │
-│                    GitHub Stats cards                   │
-├─────────────────────────────────────────────────────────┤
-│  📌 Pinned Repositories                                 │
-│  ┌────────────────┐ ┌────────────────┐ ┌─────────────┐ │
-│  │ AI Support Tool│ │ E-Commerce API │ │  Dashboard  │ │
-│  └────────────────┘ └────────────────┘ └─────────────┘ │
-│  ┌────────────────┐ ┌────────────────┐ ┌─────────────┐ │
-│  │   Portfolio    │ │ SaaS Starter   │ │ AI Content  │ │
-│  └────────────────┘ └────────────────┘ └─────────────┘ │
-└─────────────────────────────────────────────────────────┘
