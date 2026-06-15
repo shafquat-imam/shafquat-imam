@@ -68,7 +68,7 @@ $stack = [
 
 <div align="center">
   <p>
-    💬 <strong>Open to freelance Laravel projects.</strong><br/>
+    <!-- 💬 <strong>Open to freelance Laravel projects.</strong><br/> -->
     <a href="https://shafquat.dev/contact">Let's talk → shafquat.dev/contact</a>
   </p>
 </div>
